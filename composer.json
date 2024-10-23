@@ -26,7 +26,6 @@
     "autoload-dev": {},
     "require": {
         "php": ">=7.4",
-        "ext-swoole": ">=4.4",
         "lcobucci/jwt": "4.1.5",
         "nesbot/carbon": "^1.0 || ^2.0"
     },
